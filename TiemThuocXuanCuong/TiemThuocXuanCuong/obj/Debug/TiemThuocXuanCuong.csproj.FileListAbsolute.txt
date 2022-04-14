@@ -1,0 +1,153 @@
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe.config
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.AssemblyReference.cache
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Form1.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Properties.Resources.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.GenerateResource.cache
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CoreCompileInputs.cache
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.exe
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassBLL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassDAL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassBLL.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassDAL.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DangNhap.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CopyComplete
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.DangNhap.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.QuenMatKhau.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_OTPMATKHAU.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DatHang.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_HangHoa.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_NhanVien.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DoanhThu.resources
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.ResolveComReference.cache
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe.config
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.pdb
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassBLL.dll
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassDAL.dll
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassBLL.pdb
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassDAL.pdb
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.AssemblyReference.cache
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.ResolveComReference.cache
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.DangNhap.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Form1.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Properties.Resources.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.QuenMatKhau.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DangNhap.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DatHang.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DoanhThu.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_HangHoa.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_NhanVien.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_OTPMATKHAU.resources
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.GenerateResource.cache
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CoreCompileInputs.cache
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CopyComplete
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.exe
+D:\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ShockwaveFlashObjects.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\stdole.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.XuatHoaDon.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe.config
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassBLL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassDAL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\stdole.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassBLL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\ClassDAL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.AssemblyReference.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.DangNhap.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Form1.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Properties.Resources.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.QuenMatKhau.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DangNhap.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DatHang.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DoanhThu.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_HangHoa.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_NhanVien.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_OTPMATKHAU.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.XuatHoaDon.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.GenerateResource.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CoreCompileInputs.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CopyComplete
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.exe
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.ThongKe.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Excel.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe.config
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.exe
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\TiemThuocXuanCuong.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\ClassBLL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\ClassDAL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\stdole.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\ClassBLL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\bin\Debug\ClassDAL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.AssemblyReference.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.DangNhap.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Excel.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Form1.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.Properties.Resources.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.QuenMatKhau.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.ThongKe.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DangNhap.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DatHang.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_DoanhThu.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_HangHoa.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_NhanVien.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.US_OTPMATKHAU.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.XuatHoaDon.resources
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.GenerateResource.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CoreCompileInputs.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.csproj.CopyComplete
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.exe
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong - Copy\TiemThuocXuanCuong\obj\Debug\TiemThuocXuanCuong.pdb

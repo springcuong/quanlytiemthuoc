@@ -1,0 +1,18 @@
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassDAL\bin\Debug\ClassDAL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassDAL\bin\Debug\ClassDAL.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.csproj.AssemblyReference.cache
+D:\TiemThuocXuanCuong\ClassDAL\bin\Debug\ClassDAL.dll
+D:\TiemThuocXuanCuong\ClassDAL\bin\Debug\ClassDAL.pdb
+D:\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.csproj.AssemblyReference.cache
+D:\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
+D:\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.dll
+D:\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassDAL\bin\Debug\ClassDAL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassDAL\bin\Debug\ClassDAL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.csproj.AssemblyReference.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassDAL\obj\Debug\ClassDAL.pdb

@@ -1,0 +1,27 @@
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassBLL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassBLL.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassDAL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassDAL.pdb
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.dll
+D:\Đồ án lập trình ứng dụng quản lý\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.pdb
+D:\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassBLL.dll
+D:\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassBLL.pdb
+D:\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassDAL.dll
+D:\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassDAL.pdb
+D:\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+D:\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+D:\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+D:\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.dll
+D:\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassBLL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassBLL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassDAL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\bin\Debug\ClassDAL.pdb
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.dll
+C:\Users\Spring Cuong\source\repos\TiemThuocXuanCuong\ClassBLL\obj\Debug\ClassBLL.pdb
